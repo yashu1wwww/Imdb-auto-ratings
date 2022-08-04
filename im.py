@@ -10,11 +10,11 @@ time.sleep(3)
 
 time.sleep(3)
 
-driver.find_element_by_xpath('//*[@id="ap_email"]').send_keys('yashwanth6678@gmail.com') #enterb your imdb acc mail
+driver.find_element_by_xpath('//*[@id="ap_email"]').send_keys('yashu^&*@gmail.com') #enterb your imdb acc mail
 
 time.sleep(3)
 
-driver.find_element_by_xpath('//*[@id="ap_password"]').send_keys('yashu123$%')  #enter your imdb acc pass
+driver.find_element_by_xpath('//*[@id="ap_password"]').send_keys('veeru$%^')  #enter your imdb acc pass
 
 time.sleep(2)
 
