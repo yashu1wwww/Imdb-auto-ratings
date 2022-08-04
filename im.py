@@ -30,6 +30,8 @@ driver.find_element_by_css_selector('#ipl-rating-selector-tt7479902 > div.ipl-ra
 
 time.sleep(5)
 
+#if you want auto review also means below is the code remove the # of starting lines in down 
+
 driver.find_element_by_css_selector('#sidebar > div.aux-content-widget-2.links.subnav > ul > li:nth-child(3) > a').click()
 
 time.sleep(4)
