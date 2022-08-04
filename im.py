@@ -56,6 +56,8 @@ driver.find_element_by_xpath('//*[@id="react-entry-point"]/div/div/div[2]/span/s
 
 time.sleep(30)
 
+driver.close()
+
 
 
 
