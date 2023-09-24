@@ -1,5 +1,5 @@
 # Imdb-auto-ratings
-Imdb auto ratings using python
+Imdb auto ratings using selenium with python
 
 Change "13,17 &" in the code with the email and password of your IMDb account. Download the latest version of Chrome Driver from https://chromedriver.chromium.org/ and extract the file. Place it in the designated folder, then open the command prompt on that particular folder and enter "im.py"
 
