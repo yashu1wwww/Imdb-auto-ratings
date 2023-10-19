@@ -13,7 +13,9 @@ Place it in the designated folder,
 
 then open the command prompt on that particular folder and enter "im.py"
 
-If you want IMDb with multiple accounts, then copy from 'driver = webdriver.Chrome()' to 'driver.close()' again and again. How many times you want, 
+If you want IMDb with multiple accounts, then copy from 'driver = webdriver.Chrome()' to 'driver.close()' 
+
+again and again. How many times you want, 
 
 and don't forget to replace the URL, username, and password."
 
