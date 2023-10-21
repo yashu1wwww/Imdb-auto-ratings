@@ -19,10 +19,6 @@ again and again. How many times you want,
 
 and don't forget to replace the URL, username, and password."
 
-👉Imdb Auto Ratings
-
-https://youtu.be/6qg4gFCl-mE
-
 👉Note:-
 
 👉if your selenium version is in latest version then 
