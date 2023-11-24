@@ -5,6 +5,8 @@ Imdb auto ratings using selenium with python
 
 ## open your required movie in imdb then copy the url and replace in 15th line
 
+# If you want with multi accounts then copy line from 14th to driver.close() and paste it again and again how much times you want and dont forgot to replace the imdb account and password...
+
 Change 22 & 26th code with the email and password of your IMDb account.
 
 Download the latest version of ChromeDriver from https://chromedriver.chromium.org/ and extract the file.
