@@ -1,8 +1,6 @@
 # Imdb-auto-ratings
 Imdb auto ratings using selenium with python
 
-## I searched on Google but couldn't find it, so I created it. That's it.
-
 ## open your required movie in imdb then copy the url and replace in 15th line
 
 # If you want with multi accounts then copy line from 14th to driver.close() and paste it again and again how much times you want and dont forgot to replace the imdb account and password...
